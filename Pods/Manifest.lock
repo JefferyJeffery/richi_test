@@ -1,0 +1,18 @@
+PODS:
+  - iOS-Hierarchy-Viewer (1.4.7)
+  - MagicalRecord (2.3.0)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+
+DEPENDENCIES:
+  - iOS-Hierarchy-Viewer
+  - MagicalRecord (~> 2.3)
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  iOS-Hierarchy-Viewer: fb8ef72b55a8915ab0575543970754ea696e9061
+  MagicalRecord: 89eb7d7ead39fb37f01c3d010665ee94d17f8dba
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+
+COCOAPODS: 0.39.0
