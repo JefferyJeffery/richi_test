@@ -56,9 +56,6 @@
             abort();
         }
     }
-    
-    AppDelegate *delegate = [UIApplication sharedApplication].delegate;
-    [delegate performSelector:@selector(saveContext)];
 }
 
 -(nullable NSArray *)findAllInEntity:(NSString *)entityValue
